@@ -5,7 +5,6 @@ Processing the dataset to prepare it to be used for DNN training.
 
 @author: rosac
 """
-
 import h5py
 import numpy as np
 import pandas as pd
