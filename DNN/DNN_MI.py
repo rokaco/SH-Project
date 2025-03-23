@@ -6,7 +6,6 @@ Calculating the MI for each feature
 
 @author: rosac
 """
-
 import pandas as pd 
 import h5py
 import numpy as np
