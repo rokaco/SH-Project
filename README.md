@@ -6,6 +6,6 @@ This code was implemented as follows:
 1. Process the raw dataset into a form that can be inputted into the DNN using process.py
 2. Train the DNN using train.py
 3. Test the DNN using test.py
-4. Evaluate the DNN's performance on a variety of metrics using plots.py
-5. Calculate and plot the likelihood curve using likelihood.py
+4. Evaluate the DNN's performance on a variety of metrics using DNN_plots.py
+5. Calculate and plot the likelihood curve using DNN_Likelihood.py
 
