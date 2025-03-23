@@ -42,7 +42,6 @@ df['LeadPhoton_E'] = np.log(df['LeadPhoton_E'])
 df['SubLeadPhoton_E'] = np.log(df['SubLeadPhoton_E'])
 
 
-print(df.columns)
 #set the polarisation_type label as the truth record for training
 X = df.drop(['polarisation_type'], axis=1) #all columns for initial training -> then need to use MI to drop unimportant features 
 
