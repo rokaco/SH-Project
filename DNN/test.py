@@ -6,7 +6,6 @@ Testing the DNN - saves the classifications and scores to a .h5 file.
 
 @author: rosac
 """
-
 import torch
 import h5py
 import torch.optim as optim
