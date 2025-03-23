@@ -7,13 +7,6 @@ Calculating the MI for each feature
 @author: rosac
 """
 
-"""
-Alexandra McAdam 
-16/11/24
-
-Analyse MI for DNN feature importance 
-"""
-
 import pandas as pd 
 import h5py
 import numpy as np
